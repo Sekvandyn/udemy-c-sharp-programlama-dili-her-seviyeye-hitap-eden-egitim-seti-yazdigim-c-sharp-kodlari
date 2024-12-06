@@ -1,0 +1,7 @@
+D:\kod\c#\C# Kodları\Ekrana Yazdırma ve ekranı okuma\bin\Debug\Ekrana Yazdırma ve ekranı okuma.exe.config
+D:\kod\c#\C# Kodları\Ekrana Yazdırma ve ekranı okuma\bin\Debug\Ekrana Yazdırma ve ekranı okuma.exe
+D:\kod\c#\C# Kodları\Ekrana Yazdırma ve ekranı okuma\bin\Debug\Ekrana Yazdırma ve ekranı okuma.pdb
+D:\kod\c#\C# Kodları\Ekrana Yazdırma ve ekranı okuma\obj\Debug\Ekrana Yazdırma ve ekranı okuma.csproj.AssemblyReference.cache
+D:\kod\c#\C# Kodları\Ekrana Yazdırma ve ekranı okuma\obj\Debug\Ekrana Yazdırma ve ekranı okuma.csproj.CoreCompileInputs.cache
+D:\kod\c#\C# Kodları\Ekrana Yazdırma ve ekranı okuma\obj\Debug\Ekrana Yazdırma ve ekranı okuma.exe
+D:\kod\c#\C# Kodları\Ekrana Yazdırma ve ekranı okuma\obj\Debug\Ekrana Yazdırma ve ekranı okuma.pdb
