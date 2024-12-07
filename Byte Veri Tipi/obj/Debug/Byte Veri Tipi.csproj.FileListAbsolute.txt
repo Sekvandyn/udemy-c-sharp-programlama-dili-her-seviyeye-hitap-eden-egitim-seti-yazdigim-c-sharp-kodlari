@@ -1,7 +1,0 @@
-D:\kod\c#\C# Kodları\Byte Veri Tipi\bin\Debug\Byte Veri Tipi.exe.config
-D:\kod\c#\C# Kodları\Byte Veri Tipi\bin\Debug\Byte Veri Tipi.exe
-D:\kod\c#\C# Kodları\Byte Veri Tipi\bin\Debug\Byte Veri Tipi.pdb
-D:\kod\c#\C# Kodları\Byte Veri Tipi\obj\Debug\Byte Veri Tipi.csproj.AssemblyReference.cache
-D:\kod\c#\C# Kodları\Byte Veri Tipi\obj\Debug\Byte Veri Tipi.csproj.CoreCompileInputs.cache
-D:\kod\c#\C# Kodları\Byte Veri Tipi\obj\Debug\Byte Veri Tipi.exe
-D:\kod\c#\C# Kodları\Byte Veri Tipi\obj\Debug\Byte Veri Tipi.pdb
