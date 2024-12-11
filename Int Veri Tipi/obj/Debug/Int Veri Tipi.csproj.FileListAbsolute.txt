@@ -1,0 +1,7 @@
+D:\kod\c#\C# Kodları\Int Veri Tipi\bin\Debug\Int Veri Tipi.exe.config
+D:\kod\c#\C# Kodları\Int Veri Tipi\bin\Debug\Int Veri Tipi.exe
+D:\kod\c#\C# Kodları\Int Veri Tipi\bin\Debug\Int Veri Tipi.pdb
+D:\kod\c#\C# Kodları\Int Veri Tipi\obj\Debug\Int Veri Tipi.csproj.AssemblyReference.cache
+D:\kod\c#\C# Kodları\Int Veri Tipi\obj\Debug\Int Veri Tipi.csproj.CoreCompileInputs.cache
+D:\kod\c#\C# Kodları\Int Veri Tipi\obj\Debug\Int Veri Tipi.exe
+D:\kod\c#\C# Kodları\Int Veri Tipi\obj\Debug\Int Veri Tipi.pdb
